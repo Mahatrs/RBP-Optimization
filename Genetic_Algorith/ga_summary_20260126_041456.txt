@@ -1,0 +1,266 @@
+================================================================================
+GENETIC ALGORITHM - 30 RUNS SUMMARY
+================================================================================
+
+Date: 2026-01-26 04:14:56
+Number of runs: 30
+Iterations per run: 100
+Population size: 100
+
+================================================================================
+OVERALL STATISTICS
+================================================================================
+
+Best Score Across All Runs: 1.462775
+Worst Score Across All Runs: 1.427264
+Mean Best Score: 1.451138
+Std Dev of Best Scores: 0.009011
+Median Best Score: 1.453234
+
+Average Time per Run: 333.28 seconds
+Total Time: 9998.32 seconds
+
+================================================================================
+DETAILED RESULTS BY RUN
+================================================================================
+
+Run 1.0:
+  Best Solution: (0.529916, -0.404544, 0.192139)
+  Best Score: 1.452282
+  Standard Deviation: 0.169706
+  Median: 1.402270
+  IQR (Q1-Q3): 1.143575 - 1.432796 (Range: 0.289221)
+  Time: 310.81 seconds
+
+Run 2.0:
+  Best Solution: (0.524973, -0.331128, 0.150464)
+  Best Score: 1.456292
+  Standard Deviation: 0.229279
+  Median: 1.445640
+  IQR (Q1-Q3): 1.161404 - 1.450727 (Range: 0.289323)
+  Time: 350.34 seconds
+
+Run 3.0:
+  Best Solution: (0.548676, 0.311641, 0.207056)
+  Best Score: 1.462167
+  Standard Deviation: 0.246558
+  Median: 1.344146
+  IQR (Q1-Q3): 1.097857 - 1.425234 (Range: 0.327377)
+  Time: 245.74 seconds
+
+Run 4.0:
+  Best Solution: (0.563562, -0.134637, 0.011719)
+  Best Score: 1.444081
+  Standard Deviation: 0.226921
+  Median: 1.374033
+  IQR (Q1-Q3): 1.130758 - 1.404092 (Range: 0.273334)
+  Time: 231.06 seconds
+
+Run 5.0:
+  Best Solution: (0.421298, -0.309361, 0.175586)
+  Best Score: 1.442137
+  Standard Deviation: 0.196023
+  Median: 1.441830
+  IQR (Q1-Q3): 1.179241 - 1.441980 (Range: 0.262739)
+  Time: 321.38 seconds
+
+Run 6.0:
+  Best Solution: (0.504492, -0.375623, 0.186084)
+  Best Score: 1.452085
+  Standard Deviation: 0.274115
+  Median: 1.431660
+  IQR (Q1-Q3): 1.139041 - 1.434030 (Range: 0.294989)
+  Time: 287.35 seconds
+
+Run 7.0:
+  Best Solution: (0.531921, -0.373576, 0.251782)
+  Best Score: 1.427264
+  Standard Deviation: 0.174165
+  Median: 1.403509
+  IQR (Q1-Q3): 1.153957 - 1.415686 (Range: 0.261729)
+  Time: 320.53 seconds
+
+Run 8.0:
+  Best Solution: (0.510315, -0.359940, 0.223950)
+  Best Score: 1.446043
+  Standard Deviation: 0.251971
+  Median: 1.422501
+  IQR (Q1-Q3): 1.024988 - 1.424261 (Range: 0.399273)
+  Time: 368.51 seconds
+
+Run 9.0:
+  Best Solution: (0.533130, -0.352098, 0.154297)
+  Best Score: 1.457226
+  Standard Deviation: 0.268701
+  Median: 1.431436
+  IQR (Q1-Q3): 1.046838 - 1.455994 (Range: 0.409156)
+  Time: 342.90 seconds
+
+Run 10.0:
+  Best Solution: (0.532169, -0.415132, 0.181274)
+  Best Score: 1.455782
+  Standard Deviation: 0.296575
+  Median: 1.413368
+  IQR (Q1-Q3): 1.153459 - 1.435816 (Range: 0.282357)
+  Time: 294.18 seconds
+
+Run 11.0:
+  Best Solution: (0.524350, -0.339958, 0.137549)
+  Best Score: 1.458429
+  Standard Deviation: 0.190718
+  Median: 1.433335
+  IQR (Q1-Q3): 1.154001 - 1.448851 (Range: 0.294851)
+  Time: 414.91 seconds
+
+Run 12.0:
+  Best Solution: (0.518573, -0.346124, 0.115039)
+  Best Score: 1.460180
+  Standard Deviation: 0.228151
+  Median: 1.444747
+  IQR (Q1-Q3): 1.175406 - 1.444911 (Range: 0.269505)
+  Time: 326.06 seconds
+
+Run 13.0:
+  Best Solution: (0.485632, -0.317436, 0.146484)
+  Best Score: 1.442756
+  Standard Deviation: 0.241575
+  Median: 1.404786
+  IQR (Q1-Q3): 1.307313 - 1.406521 (Range: 0.099208)
+  Time: 221.62 seconds
+
+Run 14.0:
+  Best Solution: (0.579446, -0.436981, 0.241016)
+  Best Score: 1.435364
+  Standard Deviation: 0.264486
+  Median: 1.374374
+  IQR (Q1-Q3): 1.122078 - 1.416547 (Range: 0.294469)
+  Time: 315.11 seconds
+
+Run 15.0:
+  Best Solution: (0.530997, -0.402209, 0.198145)
+  Best Score: 1.451822
+  Standard Deviation: 0.184066
+  Median: 1.418207
+  IQR (Q1-Q3): 1.176168 - 1.427888 (Range: 0.251720)
+  Time: 309.25 seconds
+
+Run 16.0:
+  Best Solution: (0.526666, -0.332309, 0.148730)
+  Best Score: 1.455809
+  Standard Deviation: 0.247887
+  Median: 1.197778
+  IQR (Q1-Q3): 1.069170 - 1.452354 (Range: 0.383184)
+  Time: 376.35 seconds
+
+Run 17.0:
+  Best Solution: (0.532635, 0.052858, 0.148486)
+  Best Score: 1.462775
+  Standard Deviation: 0.207716
+  Median: 1.419022
+  IQR (Q1-Q3): 1.132270 - 1.434054 (Range: 0.301784)
+  Time: 304.50 seconds
+
+Run 18.0:
+  Best Solution: (0.508109, -0.366875, 0.193726)
+  Best Score: 1.432957
+  Standard Deviation: 0.231053
+  Median: 1.423870
+  IQR (Q1-Q3): 1.098462 - 1.430657 (Range: 0.332195)
+  Time: 523.59 seconds
+
+Run 19.0:
+  Best Solution: (0.514142, -0.336909, 0.167773)
+  Best Score: 1.458078
+  Standard Deviation: 0.214877
+  Median: 1.261796
+  IQR (Q1-Q3): 1.128367 - 1.446510 (Range: 0.318144)
+  Time: 399.43 seconds
+
+Run 20.0:
+  Best Solution: (0.526053, -0.381212, 0.223364)
+  Best Score: 1.445824
+  Standard Deviation: 0.250440
+  Median: 1.419162
+  IQR (Q1-Q3): 1.137848 - 1.435189 (Range: 0.297341)
+  Time: 269.53 seconds
+
+Run 21.0:
+  Best Solution: (0.527628, -0.406755, 0.184644)
+  Best Score: 1.454186
+  Standard Deviation: 0.279671
+  Median: 1.405923
+  IQR (Q1-Q3): 1.142362 - 1.434640 (Range: 0.292278)
+  Time: 270.42 seconds
+
+Run 22.0:
+  Best Solution: (0.551669, -0.406975, 0.187012)
+  Best Score: 1.448883
+  Standard Deviation: 0.216760
+  Median: 1.408895
+  IQR (Q1-Q3): 1.143882 - 1.429027 (Range: 0.285145)
+  Time: 320.31 seconds
+
+Run 23.0:
+  Best Solution: (0.525211, -0.056854, 0.125391)
+  Best Score: 1.458291
+  Standard Deviation: 0.221709
+  Median: 1.422408
+  IQR (Q1-Q3): 1.031615 - 1.433406 (Range: 0.401791)
+  Time: 300.75 seconds
+
+Run 24.0:
+  Best Solution: (0.422406, -0.312781, 0.151880)
+  Best Score: 1.449815
+  Standard Deviation: 0.253559
+  Median: 1.439004
+  IQR (Q1-Q3): 1.191227 - 1.448592 (Range: 0.257366)
+  Time: 343.70 seconds
+
+Run 25.0:
+  Best Solution: (0.525229, -0.344174, 0.162744)
+  Best Score: 1.457076
+  Standard Deviation: 0.265004
+  Median: 1.388111
+  IQR (Q1-Q3): 1.145448 - 1.446929 (Range: 0.301481)
+  Time: 408.29 seconds
+
+Run 26.0:
+  Best Solution: (0.527206, -0.350505, 0.152808)
+  Best Score: 1.459894
+  Standard Deviation: 0.220302
+  Median: 1.413654
+  IQR (Q1-Q3): 1.183150 - 1.449490 (Range: 0.266340)
+  Time: 483.04 seconds
+
+Run 27.0:
+  Best Solution: (0.538614, -0.356795, 0.150122)
+  Best Score: 1.455231
+  Standard Deviation: 0.244008
+  Median: 1.306915
+  IQR (Q1-Q3): 1.127501 - 1.448009 (Range: 0.320509)
+  Time: 428.11 seconds
+
+Run 28.0:
+  Best Solution: (0.509363, 0.233267, 0.102222)
+  Best Score: 1.446675
+  Standard Deviation: 0.238941
+  Median: 1.426209
+  IQR (Q1-Q3): 1.144377 - 1.427642 (Range: 0.283266)
+  Time: 258.45 seconds
+
+Run 29.0:
+  Best Solution: (0.524451, -0.353458, 0.107349)
+  Best Score: 1.461889
+  Standard Deviation: 0.235128
+  Median: 1.202276
+  IQR (Q1-Q3): 1.172990 - 1.457634 (Range: 0.284645)
+  Time: 347.42 seconds
+
+Run 30.0:
+  Best Solution: (0.536069, -0.333600, 0.187915)
+  Best Score: 1.442837
+  Standard Deviation: 0.237430
+  Median: 1.411654
+  IQR (Q1-Q3): 1.272416 - 1.429496 (Range: 0.157080)
+  Time: 304.71 seconds
+
